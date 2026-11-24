@@ -1,0 +1,1 @@
+# Number Guessing Game - Team 1\n\nGenerate a random number and let the user guess it with hints.\n\n## Compilation and Run\n```bash\ngcc main.c -o app\n./app\n```\n
